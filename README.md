@@ -1,1 +1,1 @@
-Demo link - https://github.com/diamondbuger/Next-location-predictor.git
+https://next-location-predictor-mnhskjqpq9tmwxtyj3rrjt.streamlit.app/
